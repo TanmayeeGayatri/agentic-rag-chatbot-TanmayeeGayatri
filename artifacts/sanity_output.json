@@ -1,0 +1,7 @@
+{
+  "question": "What is RAG?",
+  "answer": "Retrieval Augmented Generation (RAG) combines retrieval systems with language models.\n\nSteps in RAG:\n1. Ingest documents\n2. Split into chunks\n3. Create embeddings\n4. Store in vector database\n5. Retrieve relevant chunks\n6. Generate grounded response\n\nRAG improves accuracy and reduces hallucinations.",
+  "sources": [
+    "sample_docs/rag.txt"
+  ]
+}

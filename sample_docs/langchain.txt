@@ -1,0 +1,11 @@
+LangChain is an open-source framework for building applications using large language models.
+
+It provides tools for:
+- Retrieval Augmented Generation (RAG)
+- Chatbots
+- Agents
+- Memory systems
+
+LangChain integrates with vector databases like FAISS, Chroma, and Pinecone.
+
+It allows developers to build intelligent systems that can reason over documents.

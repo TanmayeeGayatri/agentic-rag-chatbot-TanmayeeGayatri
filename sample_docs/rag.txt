@@ -1,0 +1,11 @@
+Retrieval Augmented Generation (RAG) combines retrieval systems with language models.
+
+Steps in RAG:
+1. Ingest documents
+2. Split into chunks
+3. Create embeddings
+4. Store in vector database
+5. Retrieve relevant chunks
+6. Generate grounded response
+
+RAG improves accuracy and reduces hallucinations.

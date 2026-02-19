@@ -46,9 +46,9 @@ You may implement one feature or multiple. Partial implementations are acceptabl
 ---
 
 ## Participant Info (Required)
-- Full Name:
-- Email:
-- GitHub Username:
+- Full Name: Venkata Naga Tanmayee Gayatri
+- Email: tanmayeeg3@gmail.com
+- GitHub Username: TanmayeeGayatri
 
 ---
 
@@ -241,15 +241,18 @@ These are optional enhancements. They are not required, but can earn bonus point
 
 ## Quick Start (YOU MUST FILL THIS IN)
 
-Provide exact commands a judge can run.
-
-Example (replace with your real commands):
-
-```text
 # install dependencies
-# run the app
-# open UI or run CLI
-```
+pip install -r requirements.txt
+
+# ingest documents
+python ingest_all.py
+
+# run chatbot
+python chat.py
+
+# run sanity check
+python sanity.py
+
 
 ---
 

@@ -1,0 +1,7 @@
+Memory systems allow AI applications to remember important information.
+
+Two types of memory:
+- User memory: personal preferences, facts
+- Company memory: reusable insights and knowledge
+
+Memory improves personalization and user experience.
